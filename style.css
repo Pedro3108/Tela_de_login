@@ -1,0 +1,34 @@
+.altura{
+    height: 100vh;
+}
+
+
+
+
+@media (max-width: 576px){
+    .user{
+        width: 70%;
+    }
+}
+
+@media (max-width: 768px){
+    .user{
+        width: 80%;
+    }
+}
+
+@media (min-width: 992px){
+    .user{
+        width: 80%;
+    }
+}
+@media (min-width: 1200px){
+    .user{
+        width: 10%;
+    }
+}
+@media (min-width: 1400px){
+    .user{
+        width: 80%;
+    }
+}
